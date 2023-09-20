@@ -10,6 +10,7 @@
 #AESD_ASSIGNMENTS_VERSION = 'e7c17d2'
 #AESD_ASSIGNMENTS_VERSION = 'f1b41c2' #This was the commit that worked for assignment-4-part-2
 AESD_ASSIGNMENTS_VERSION ='ecb8906' #Updating commit for assignment-5-part-2
+AESD_ASSIGNMENTS_VERSION = 714d828ead7aa4c23bf5c3d258a2699f9d54b1e0
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
